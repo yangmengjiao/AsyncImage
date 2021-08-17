@@ -18,7 +18,7 @@ public struct AsyncImageView: View {
         }
     }
     
-    init(url: URL) {
+    public init(url: URL) {
         downloader = ImageDownloader(url: url)
     }
     public var body: some View {
