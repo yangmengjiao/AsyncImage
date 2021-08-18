@@ -1,3 +1,3 @@
 # AsyncImage
 
-A description of this package.
+AsyncImage is a SwiftUI view that displays an image downloaded from provided URL. 
